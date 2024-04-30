@@ -1,1 +1,1 @@
-# factorial calculation code
+# AlgorithmsCourse
